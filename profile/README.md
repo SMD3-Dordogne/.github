@@ -1,1 +1,3 @@
-![SMD3]("https://github.com/SMD3-Dordogne/.github/profile/images/banniere.png") 
+<p align="center">
+  <img src="https://github.com/SMD3-Dordogne/.github/blob/main/profile/images/banniere.png" alt="SMD3" width="50%" />
+</p>
