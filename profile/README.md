@@ -14,12 +14,6 @@ Le SMD3 (Syndicat Mixte Départemental des Déchets de la Dordogne) est une orga
 
 Le SMD3 travaille actuellement sur plusieurs projets en lien avec la gestion des déchets en Dordogne.
 
-N'hésitez pas à contribuer à nos projets publics ou à proposer de nouveaux projets en lien avec notre mission !
-
-## Comment contribuer
-
-Nous sommes toujours à la recherche de bénévoles pour nous aider dans nos projets. Si vous êtes intéressé·e à contribuer, vous pouvez nous contacter à l'adresse suivante : [contact@smd3.fr](mailto:contact@smd3.fr)
-
 ## Contact
 
 Vous pouvez nous contacter à l'adresse suivante : [contact@smd3.fr](mailto:contact@smd3.fr)
