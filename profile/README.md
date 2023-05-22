@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://github.com/SMD3-Dordogne/.github/blob/main/profile/images/banniere.png" alt="SMD3" width="50%" />
+  <a href="https://smd3.fr/">
+    <img src="https://github.com/SMD3-Dordogne/.github/blob/main/profile/images/banniere.png" alt="SMD3" width="50%" />
+  </a>
 </p>
 
 # SMD3
