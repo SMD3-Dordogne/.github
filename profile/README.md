@@ -23,7 +23,7 @@ Vous pouvez nous contacter à l'adresse suivante : [contact@smd3.fr](mailto:cont
 Suivez-nous sur les réseaux sociaux pour rester informé·e·s de nos projets :
 
 -   [Facebook](https://www.facebook.com/SMD3syndicatdepartementaldesdechetsdeladordogne/)
--   [Twitter](https://twitter.com/smd3dordogne)
+-   [ X ](https://twitter.com/smd3dordogne)
 -   [Youtube](https://www.youtube.com/channel/UC3EEZwu9Mzy5JfF21BGF2eg)
 -   [Instagram](https://www.instagram.com/smd3.syndicat.dechets.dordogne/)
 
